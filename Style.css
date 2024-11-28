@@ -1,11 +1,16 @@
 .red{
     color: red;
 }
-p{
+footer{
     text-align: center;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 body{
     background-color: lightblue;
+}
+.foot{
+    text-align: center;
 }
 a{
   
